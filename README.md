@@ -26,9 +26,9 @@ My goal is to always build something that is scalable, efficient, and maintainab
 - **SAP Software Development**: Created robust SAP solutions for Ferrera Tooling.
 - **Engineering Scripting**: Published a research paper in ASME titled "Dynamics of Nonlinear Equations", explaining my innovative scripts.
 
-## Get in Touch 📬
-
-- Tweeting about JavaScript, AI, and tech on [Twitter](https://twitter.com/ThyFriendlyFox) 🐦
+## Willing to Build Big? Get in Touch! 📬
+- Feel free to [Email me](mailto:thyfriendlyfox@gmail.com) with any questions or if you just want to chat!
+- Follow me on [Twitter](https://twitter.com/ThyFriendlyFox) 🐦
 
 ![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=ThyFriendlyFox&show_icons=true&hide_border=true)
 

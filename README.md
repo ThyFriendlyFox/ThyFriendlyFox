@@ -1,6 +1,6 @@
 # Hi there, I'm ThyFriendlyFox 👋
 
-![GitHub followers](https://img.shields.io/github/followers/[ThyFriendlyFox]?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/[ThyFriendlyFox]?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ThyFriendlyFox?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ThyFriendlyFox?style=social)
 
 ## About Me 🚀
 
@@ -28,7 +28,7 @@ My goal is to always build something that is scalable, efficient, and maintainab
 
 ## Get in Touch 📬
 
-- Tweeting about JavaScript, AI, and tech on [Twitter](https://twitter.com/[ThyFriendlyFox]) 🐦
+- Tweeting about JavaScript, AI, and tech on [Twitter](https://twitter.com/ThyFriendlyFox) 🐦
 
-![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=[ThyFriendlyFox]&show_icons=true&hide_border=true)
+![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=ThyFriendlyFox&show_icons=true&hide_border=true)
 

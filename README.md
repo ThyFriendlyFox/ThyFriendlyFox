@@ -22,9 +22,9 @@ My goal is to always build something that is scalable, efficient, and maintainab
 
 ## Recent Projects 📚
 
-- **AI Business Application**: Developed an AI model that optimized operational efficiency for [Layer-3 Tooling]. 
-- **SAP Software Development**: Created robust SAP solutions for [Ferrera Tooling].
-- **Engineering Scripting**: Published a research paper in ASME titled "[Dynamics of Nonlinear Equations]", explaining my innovative scripts.
+- **AI Business Application**: Developed an AI model that optimized operational efficiency for Layer-3 Tooling. 
+- **SAP Software Development**: Created robust SAP solutions for Ferrera Tooling.
+- **Engineering Scripting**: Published a research paper in ASME titled "Dynamics of Nonlinear Equations", explaining my innovative scripts.
 
 ## Get in Touch 📬
 

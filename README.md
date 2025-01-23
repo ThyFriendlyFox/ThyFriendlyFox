@@ -31,4 +31,6 @@ My goal is to always build something that is scalable, efficient, and maintainab
 - Follow me on [Twitter](https://twitter.com/ThyFriendlyFox) 🐦
 
 ![Your Name's Github Stats](https://github-readme-stats.vercel.app/api?username=ThyFriendlyFox&show_icons=true&hide_border=true)
+> 📊 **Note**: These stats only include contributions to public repositories. I’ve also made significant contributions to private repositories!
+
 
